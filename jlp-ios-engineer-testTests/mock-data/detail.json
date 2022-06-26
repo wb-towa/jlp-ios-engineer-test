@@ -1,0 +1,596 @@
+{
+    "bundleProducts": [],
+    "emailMeWhenAvailable": false,
+    "numberOfReviews": 17,
+    "productId": "5798103",
+    "ageRestriction": 0,
+    "releaseDateTimestamp": 0,
+    "details": {
+        "features": [
+            {
+                "attributes": [
+                    {
+                        "name": "Type",
+                        "values": [],
+                        "multivalued": false,
+                        "value": "Integrated"
+                    },
+                    {
+                        "name": "Noise Level",
+                        "values": [],
+                        "multivalued": false,
+                        "value": "44dB"
+                    },
+                    {
+                        "name": "Rinse Aid Indicator",
+                        "multivalued": false,
+                        "values": [],
+                        "value": "YES"
+                    },
+                    {
+                        "name": "Noise Level Rating",
+                        "values": [],
+                        "multivalued": false,
+                        "value": "B"
+                    },
+                    {
+                        "name": "Time remaining indicator",
+                        "multivalued": false,
+                        "values": [],
+                        "value": "YES"
+                    },
+                    {
+                        "name": "Adjustable racking",
+                        "values": [],
+                        "multivalued": false,
+                        "value": "Upper and Lower Basket"
+                    },
+                    {
+                        "name": "Digital display",
+                        "multivalued": false,
+                        "values": [],
+                        "value": "YES"
+                    },
+                    {
+                        "name": "Installation Required",
+                        "values": [],
+                        "multivalued": false,
+                        "value": "YES - Plumber"
+                    },
+                    {
+                        "name": "Delicate Wash",
+                        "multivalued": false,
+                        "values": [],
+                        "value": "NO"
+                    },
+                    {
+                        "name": "Program Sequence Indicator",
+                        "multivalued": false,
+                        "values": [],
+                        "value": "Yes"
+                    },
+                    {
+                        "name": "Child lock",
+                        "values": [],
+                        "multivalued": false,
+                        "value": "NO"
+                    },
+                    {
+                        "name": "Cable length (m)",
+                        "multivalued": false,
+                        "values": [],
+                        "value": "1.75m"
+                    },
+                    {
+                        "name": "Cycle duration at rated capacity for the eco cycle",
+                        "values": [],
+                        "multivalued": false,
+                        "value": "295 minutes"
+                    },
+                    {
+                        "name": "Cutlery Holder Type",
+                        "values": [],
+                        "multivalued": false,
+                        "value": "Tray"
+                    },
+                    {
+                        "name": "Delay Start",
+                        "multivalued": false,
+                        "values": [],
+                        "value": "Yes - up to 24 hours"
+                    },
+                    {
+                        "name": "Brand",
+                        "multivalued": false,
+                        "values": [],
+                        "value": "Bosch"
+                    },
+                    {
+                        "name": "Weight",
+                        "values": [],
+                        "multivalued": false,
+                        "value": "34.81kg"
+                    },
+                    {
+                        "name": "Overflow protection",
+                        "values": [],
+                        "multivalued": false,
+                        "value": "YES"
+                    },
+                    {
+                        "name": "Automatic Load Adjustment",
+                        "multivalued": false,
+                        "values": [],
+                        "value": "YES"
+                    },
+                    {
+                        "name": "Drying performance",
+                        "multivalued": false,
+                        "values": [],
+                        "value": "A"
+                    },
+                    {
+                        "name": "Drying System",
+                        "multivalued": false,
+                        "values": [],
+                        "value": "Heat Exchanger"
+                    },
+                    {
+                        "name": "Smart Technology",
+                        "multivalued": false,
+                        "values": [],
+                        "value": "Not Smart Technology Enabled"
+                    },
+                    {
+                        "name": "Quiet Mark",
+                        "multivalued": false,
+                        "values": [],
+                        "value": "Not Accredited"
+                    },
+                    {
+                        "name": "Salt Level Indicator",
+                        "multivalued": false,
+                        "values": [],
+                        "value": "YES"
+                    },
+                    {
+                        "name": "Amperage",
+                        "multivalued": false,
+                        "values": [],
+                        "value": "10A"
+                    },
+                    {
+                        "name": "Guarantee",
+                        "multivalued": false,
+                        "values": [],
+                        "value": "2 year guarantee"
+                    },
+                    {
+                        "name": "Fittings Included",
+                        "multivalued": false,
+                        "values": [],
+                        "value": "Side Fittings Included"
+                    },
+                    {
+                        "name": "Drainage Facility Available",
+                        "multivalued": false,
+                        "values": [],
+                        "value": "YES"
+                    },
+                    {
+                        "name": "Energy Rating - Overall",
+                        "values": [],
+                        "multivalued": false,
+                        "value": "D"
+                    },
+                    {
+                        "name": "Inverter Motor",
+                        "values": [],
+                        "multivalued": false,
+                        "value": "YES"
+                    },
+                    {
+                        "name": "Quick Wash Cycle Time",
+                        "multivalued": false,
+                        "values": [],
+                        "value": "60 minutes"
+                    },
+                    {
+                        "name": "Country of Origin",
+                        "values": [],
+                        "multivalued": false,
+                        "value": "Germany"
+                    },
+                    {
+                        "name": "Appliance Width",
+                        "values": [],
+                        "multivalued": false,
+                        "value": "60cm"
+                    },
+                    {
+                        "name": "Weighted Water Consumption for the Eco cycle",
+                        "values": [],
+                        "multivalued": false,
+                        "value": "9.5L"
+                    },
+                    {
+                        "name": "Slim depth",
+                        "values": [],
+                        "multivalued": false,
+                        "value": "YES"
+                    },
+                    {
+                        "name": "Average annual energy cost",
+                        "values": [],
+                        "multivalued": false,
+                        "value": "\u00a318.57"
+                    },
+                    {
+                        "name": "Online Exclusive",
+                        "multivalued": false,
+                        "values": [],
+                        "value": "Information not available"
+                    },
+                    {
+                        "name": "Water supply (fill type)",
+                        "values": [],
+                        "multivalued": false,
+                        "value": "Cold fill"
+                    },
+                    {
+                        "name": "Place Settings",
+                        "values": [],
+                        "multivalued": false,
+                        "value": "14"
+                    },
+                    {
+                        "name": "Dishwasher Size",
+                        "multivalued": false,
+                        "values": [],
+                        "value": "Full"
+                    },
+                    {
+                        "name": "Quick wash",
+                        "multivalued": false,
+                        "values": [],
+                        "value": "YES"
+                    },
+                    {
+                        "name": "Number of Programs/Settings",
+                        "values": [],
+                        "multivalued": false,
+                        "value": "5"
+                    },
+                    {
+                        "name": "Auto Dose",
+                        "multivalued": false,
+                        "values": [],
+                        "value": "NO"
+                    },
+                    {
+                        "name": "Home Appliance Features",
+                        "multivalued": true,
+                        "values": [
+                            "Quick Wash",
+                            "Timer Delay"
+                        ],
+                        "value": "Quick Wash"
+                    },
+                    {
+                        "name": "Aperture needed",
+                        "multivalued": false,
+                        "values": [],
+                        "value": "H81.5 x W60 x D55cm"
+                    },
+                    {
+                        "name": "Weighted Energy Consumption per 100 cycles for Eco cycle",
+                        "multivalued": false,
+                        "values": [],
+                        "value": "85kWh"
+                    },
+                    {
+                        "name": "Adjustable",
+                        "multivalued": true,
+                        "values": [
+                            "Lower Basket",
+                            "Upper Basket"
+                        ],
+                        "value": "Lower Basket"
+                    },
+                    {
+                        "name": "Manufacturer Part Number (MPN)",
+                        "multivalued": false,
+                        "values": [],
+                        "value": "SGV4HCX40G"
+                    },
+                    {
+                        "name": "Dimensions",
+                        "values": [],
+                        "multivalued": false,
+                        "value": "H81.5 x W59.8 x D55cm"
+                    },
+                    {
+                        "name": "Range",
+                        "values": [],
+                        "multivalued": false,
+                        "value": "Serie 4"
+                    },
+                    {
+                        "name": "Model name / number",
+                        "multivalued": false,
+                        "values": [],
+                        "value": "SGV4HCX40G"
+                    }
+                ],
+                "groupName": ""
+            }
+        ],
+        "editorsNotes": "",
+        "featuredArticles": [
+            {
+                "title": "Dishwashers Buying Guide",
+                "linkUrl": "https://www.johnlewis.com/buying-guides/dishwashers-buying-guide"
+            }
+        ],
+        "buyingGuides": [
+            {
+                "title": "Dishwashers Buying Guide",
+                "linkUrl": "https://www.johnlewis.com/buying-guides/dishwashers-buying-guide"
+            }
+        ],
+        "productInformation": "Selling text:\nSerie | 4, Fully-integrated dishwasher, 60 cmSGV4HCX40GEasy loading of your dishes and an option for extra-thoroughly dry dishes with just one push of a button.ExtraDry: extra drying option for difficult-to-dry loads.Flex baskets: flexible and practical solution for easy loading.VarioDrawer: 3rd level loading for cutlery and smaller kitchen utensils.Silence Plus: remarkably quiet at 44dB.InfoLight: a red infolight on the floor indicates whether the dishwasher is switched on or off.\n\n<p><b>ExtraDry</b><br>\nBosch's ExtraDry option increases drying time and temperatures to enhance drying performance for a sparkling shine. No more streaky glasses or drippy leftover boxes, and you can throw that ragged tea towel away and all.</p>\n<P><b>Flexible Loading</b><br>\nA VarioDrawer gives you more flexibility in how you load your dishwasher. It\u2019s an extra level at the top of the dishwasher, perfect for cutlery, small kitchen utensils and even espresso cups. By switching the cutlery basket out in place of the VarioDrawer you can fit up to 13 place settings at once; perfect for cleaning up after a dinner party.</p>",
+        "returns": "<div class=\"par parsys\"> <div class=\"cms30r section\">  <div class=\"free-html\">    <style>#cq-returns-info p a{padding:0;} #cq-returns-info h2{padding:18px 0 16px 0; border-bottom: 1px solid #bfbdb7; font-size: 18px; font-weight: bold;} #cq-returns-info p{padding:0 0 6px;}   </style>   <div id=\"cq-returns-info\"> <p>If you\u2019ve changed your mind about keeping your purchase, please return it in its original condition with proof of purchase and we\u2019ll exchange or refund it. Unless faulty, this should be within 35 days of receiving your order. By original condition, we\u2019d expect this to mean that you\u2019ve kept packaging and labels, and that the item is undamaged and unused.</p>     <p>You can return for free in the UK via John Lewis and Waitrose Shops, Royal Mail, Collect+ or MyHermes. If you need to arrange collection of large or heavy items, call us on <strong>03456 049 049</strong>. For international returns queries, call us on <strong>+44 1698 545 454</strong></p>     <p>You\u2019ll find returns information on your delivery note. Exceptions apply to certain products - <a href=\"/customer-services/information-about-ordering-and-returning-products#refund\">find out more about our refund policy</a></p>   </div>  </div> </div></div>"
+    },
+    "averageRating": 4.4,
+    "promotionalFeatures": [],
+    "skus": [
+        {
+            "media": {
+                "videos": {},
+                "images": {
+                    "urls": [
+                        "//johnlewis.scene7.com/is/image/JohnLewis/240251294?",
+                        "//johnlewis.scene7.com/is/image/JohnLewis/240251294alt1?",
+                        "//johnlewis.scene7.com/is/image/JohnLewis/240251294alt2?",
+                        "//johnlewis.scene7.com/is/image/JohnLewis/240251294alt3?",
+                        "//johnlewis.scene7.com/is/image/JohnLewis/240251294alt4?",
+                        "//johnlewis.scene7.com/is/image/JohnLewis/240251294alt5?",
+                        "//johnlewis.scene7.com/is/image/JohnLewis/240251294alt6?",
+                        "//johnlewis.scene7.com/is/image/JohnLewis/240251294alt7?",
+                        "//johnlewis.scene7.com/is/image/JohnLewis/240251294alt8?",
+                        "//johnlewis.scene7.com/is/image/JohnLewis/240251294alt9?",
+                        "//johnlewis.scene7.com/is/image/JohnLewis/240251294alt10?"
+                    ]
+                }
+            },
+            "sizeHeadline": "",
+            "brandName": "Bosch",
+            "id": "240251294",
+            "availability": {
+                "availabilityStatus": "INSTOCK",
+                "stockLevel": 274,
+                "message": "Currently in stock online",
+                "isPreorder": false
+            },
+            "color": "",
+            "swatchUrl": "//johnlewis.scene7.com/is/image/JohnLewis/240251294alt1?cropN=0.49473684210526314,0.4926315789473684,0.04421052631578947,0.04421052631578947",
+            "code": "88701103",
+            "skuTitle": "Bosch Serie 4 SGV4HCX40G Fully Integrated Dishwasher",
+            "dynamicAttributes": {
+                "modelnamenumber": "SGV4HCX40G",
+                "range": "Serie 4",
+                "manufacturerpartnumbermpn": "SGV4HCX40G",
+                "dimensions": "H81.5 x W59.8 x D55cm"
+            },
+            "unitPriceInfo": {},
+            "priceBand": "",
+            "size": "",
+            "ticketType": "R",
+            "price": {
+                "was": "629.00",
+                "currency": "GBP",
+                "then2": "",
+                "then1": "",
+                "now": "579.00",
+                "uom": ""
+            }
+        }
+    ],
+    "templateType": "media-epic-prodtemplate",
+    "defaultSku": "240251294",
+    "isFBL": false,
+    "code": "88701103",
+    "deliveries": [
+        {
+            "options": [
+                {
+                    "id": "26",
+                    "newPriority": 1,
+                    "newShortDescription": "Standard Delivery",
+                    "price": "0.00",
+                    "shortDescription": "Delivery from 3 days, depending on postcode, charges apply to locations outside of UK mainland",
+                    "isApprovedSupplier": false,
+                    "standardDescription": "Delivery from 3 days, depending on postcode, charges apply to locations outside of UK mainland",
+                    "newStandardDescription": "Delivery to UK mainland locations from 3 working days of your order, delivered on the day of your choice, Monday to Saturday.\nChoose your preferred delivery day in checkout. 2-hour and 4-hour slots are available for an additional cost.\nAvailability varies by postcode. <a href='https://www.johnlewis.com/customer-services/delivery-information/uk-delivery'>Charges apply to locations outside of UK mainland</a>."
+                },
+                {
+                    "id": "202",
+                    "newPriority": 2,
+                    "newShortDescription": "Next Day Delivery",
+                    "price": "19.95",
+                    "shortDescription": "Next day delivery to selected areas",
+                    "isApprovedSupplier": false,
+                    "standardDescription": "Next day delivery to selected areas",
+                    "newStandardDescription": "Order by 2pm for next day delivery, 11am - 9pm, Monday to Saturday. The evening before delivery day we'll let you know a 2-hour delivery window.\nAvailability varies by postcode. Not available to non-mainland locations, or when ordered with installation and disposal services."
+                }
+            ],
+            "deliveryType": "UK"
+        }
+    ],
+    "priceBands": [],
+    "parentCategories": [],
+    "type": "standard",
+    "title": "Bosch Serie 4 SGV4HCX40G Fully Integrated Dishwasher",
+    "seoURL": "/bosch-serie-4-sgv4hcx40g-fully-integrated-dishwasher/p5798103",
+    "isAsafShape": false,
+    "defaultCategory": {
+        "id": "",
+        "name": "Dishwashers"
+    },
+    "nonPromoMessage": "",
+    "price": {
+        "was": "629.00",
+        "currency": "GBP",
+        "then1": "",
+        "then2": "",
+        "now": "579.00",
+        "uom": ""
+    },
+    "specialOffers": {
+        "bundleHeadline": "",
+        "customSpecialOffer": {},
+        "customPromotionalMessage": "",
+        "priceMatched": "",
+        "offer": "Reduced To Clear"
+    },
+    "brand": {
+        "logo": "//johnlewis.scene7.com/is/image/JohnLewis/bosch_brl",
+        "name": "Bosch"
+    },
+    "dynamicAttributes": {
+        "placesettings": "14",
+        "childlock": "NO",
+        "annualrunningcost": "\u00a318.57",
+        "floodprotection": "YES",
+        "quietmark": "Not Accredited",
+        "dimensions": "H81.5 x W59.8 x D55cm",
+        "noofprograms": "5",
+        "noiselevelrating": "B",
+        "modelnamenumber": "SGV4HCX40G",
+        "dryingsystem": "Heat Exchanger",
+        "dishwashersize": "Full",
+        "weightedwaterconsumptionfortheecocycle": "9.5L",
+        "noiselevel": "44dB",
+        "brand": "Bosch",
+        "digitaldisplay": "YES",
+        "integratedorfreestanding": "Integrated",
+        "weight": "34.81kg",
+        "combinedaperturedimensions": "H81.5 x W60 x D55cm",
+        "smarttechnology": "Not Smart Technology Enabled",
+        "widthbuiltinovens": "60cm",
+        "countryoforigin": "Germany",
+        "adjustableracking": "Upper and Lower Basket",
+        "energyratingoverall": "D",
+        "autodose": "NO",
+        "automaticloadadjustment": "YES",
+        "manufacturerpartnumbermpn": "SGV4HCX40G",
+        "quickwashcycletime": "60 minutes",
+        "cycledurationatratedcapacityfortheecocycle": "295 minutes",
+        "timerdelay": "Yes - up to 24 hours",
+        "cutlerybasket": "Tray",
+        "fittingsincluded": "Side Fittings Included",
+        "range": "Serie 4",
+        "quickwash": "YES",
+        "guarantee": "2 year guarantee",
+        "dryingperformance": "A",
+        "rinseaidindicator": "YES",
+        "delicatewash": "NO",
+        "watersupplyfilltype": "Cold fill",
+        "onlineexclusive": "Information not available",
+        "amperage": "10A",
+        "slimdepth": "YES",
+        "weightedenergyconsumptionper100cyclesforecocycle": "85kWh",
+        "drainagefacilityavailable": "YES",
+        "invertermotor": "YES",
+        "installationrequired": "YES - Plumber",
+        "timeremainingindicator": "YES",
+        "programsequenceindicator": "Yes",
+        "saltlevelindicator": "YES",
+        "cablelength": "1.75m"
+    },
+    "additionalServices": {
+        "includedServices": [
+            "2 year guarantee included"
+        ],
+        "optionalServices": [
+            {
+                "associatedProductId": "DMS14",
+                "orderOnSite": 1,
+                "title": "Dishwasher Recycling",
+                "id": "DMS14",
+                "description": "<p>Our recycling service includes the taking away of your old appliance & packaging. The materials will be reused or recycled to create less waste & impact on the environment.</p>\n\n<p>Please drain/remove the contents of your old appliance and safely disconnect from the water/electricity supply.</p>\n\n<p>If you've booked an installation and recycling service, we'll take your old appliance away from the room.</p>",
+                "price": "20.00",
+                "type": "DBS",
+                "customProperties": {}
+            },
+            {
+                "orderOnSite": 2,
+                "title": "Integrated Dishwasher Installation",
+                "associatedProductId": "DMS3902",
+                "id": "DMS3902",
+                "description": "<p><b>What this includes</b></p>\n<ul>\n<li>Disconnection of your old appliance</li>\n<li>Connection of the appliance to an existing water connection point that is within 1 metre of installation location</li>\n<li>Connection of the appliance to an existing 3 pin 13 amp plug socket or hard-wired electricity point that is within 1 metre of installation location.</li>\n<li>Connection of the appliance to an existing waste outlet that is within 1 metre of the installation location</li>\n<li>Test wash to ensure that the appliance fills and drains correctly</li>\n<li>Refitting of the decorative door(s)</li>\n<li>Removal of all packaging</li></ul>",
+                "price": "90.00",
+                "customProperties": {},
+                "type": "DBS"
+            },
+            {
+                "associatedProductId": "1465517",
+                "title": "5 years Protect Plus for your home appliance (includes guarantee period)",
+                "orderOnSite": 3,
+                "id": "233568718",
+                "description": "Our electrical products are guaranteed against breakdown for a minimum of 2 years at no extra cost. With Protect Plus for your home appliance, you'll get 5 years of protection against breakdown and accidental damage alongside your guarantee. <a href='https://www.johnlewis.com/our-services/protect-plus'>More about Protect Plus</a>.",
+                "price": "150.00",
+                "type": "ADDED_WARRANTY",
+                "customProperties": {
+                    "warrantyCustomDescription": "Would you like to protect your home appliance for 5 years against breakdown (includes guarantee period) and accidental damage with Protect Plus?",
+                    "warrantyCustomGeneric": "Exclusions apply. To make sure this policy meets your needs, please read the <a href='https://johnlewis.scene7.com/is/content/JohnLewis/IPID-Home-Appliancepdf'>Insurance Product Information Document</a>.",
+                    "warrantyCustomConfirm": "You've chosen Protect Plus to protect your home appliance against breakdown (includes guarantee period) and accidental damage for 5 years.  Terms and conditions apply.  Please ensure you have read the <a href='https://johnlewis.scene7.com/is/content/JohnLewis/IPID-Home-Appliancepdf'>Insurance Product Information Document</a> and <a href='https://www.johnlewis.com/our-services/protect-plus'>Terms and Important Information</a> to ensure this insurance product meets your demands and needs.",
+                    "warrantyCustomTooltip": "Our electrical products are guaranteed against breakdown for a minimum of 2 years at no extra cost. With Protect Plus for your home appliance, you'll get 5 years of protection against breakdown and accidental damage alongside your guarantee. <a href='https://www.johnlewis.com/our-services/protect-plus'>More about Protect Plus</a>."
+                }
+            }
+        ]
+    },
+    "media": {
+        "videos": {},
+        "images": {
+            "urls": [
+                "//johnlewis.scene7.com/is/image/JohnLewis/240251294?",
+                "//johnlewis.scene7.com/is/image/JohnLewis/240251294alt1?",
+                "//johnlewis.scene7.com/is/image/JohnLewis/240251294alt2?",
+                "//johnlewis.scene7.com/is/image/JohnLewis/240251294alt3?",
+                "//johnlewis.scene7.com/is/image/JohnLewis/240251294alt4?",
+                "//johnlewis.scene7.com/is/image/JohnLewis/240251294alt5?",
+                "//johnlewis.scene7.com/is/image/JohnLewis/240251294alt6?",
+                "//johnlewis.scene7.com/is/image/JohnLewis/240251294alt7?",
+                "//johnlewis.scene7.com/is/image/JohnLewis/240251294alt8?",
+                "//johnlewis.scene7.com/is/image/JohnLewis/240251294alt9?",
+                "//johnlewis.scene7.com/is/image/JohnLewis/240251294alt10?"
+            ]
+        }
+    },
+    "displaySpecialOffer": "Reduced To Clear",
+    "legs": [],
+    "lifeCycleState": "LIVE",
+    "crumbs": [
+        {
+            "clickable": "true",
+            "item": "",
+            "displayName": "Homepage",
+            "type": "CATALOGUE"
+        },
+        {
+            "item": "",
+            "clickable": "true",
+            "type": "CATALOGUE",
+            "displayName": "Electricals"
+        },
+        {
+            "item": "",
+            "clickable": "true",
+            "type": "CATALOGUE",
+            "displayName": "Dishwashers"
+        }
+    ],
+    "specialOfferBundles": [],
+    "storeOnly": false
+}

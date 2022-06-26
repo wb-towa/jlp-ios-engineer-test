@@ -1,0 +1,20 @@
+{
+    "dimensionName": "childSKUs.hideOutOfStock",
+    "name": "Stock Availability",
+    "type": "Single",
+    "tooltip": "Stock Availability",
+    "filterTypes": [
+        "AlwaysShow",
+        "AboveSeo"
+    ],
+    "details": [
+        {
+            "facetId": "/electricals/dishwashers/show-in-stock-items-only/_/N-adoZ1z0wxdt",
+            "label": "Show in stock items only",
+            "qty": "61",
+            "color": "",
+            "colorSwatchUrl": "",
+            "isSelected": "false"
+        }
+    ]
+}
